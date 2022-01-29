@@ -1,4 +1,4 @@
-title: My title
+title: DevBook
 theme: just-the-docs
 
 highlighter: rouge
@@ -9,8 +9,7 @@ kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
 
-baseurl: "/foam-template-just-the-docs-with-tags-demo" # the subpath of your site, e.g. /blog
-url: "https://YOUR_GITHUB_NAME.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+repository: EinApfelBaum/DevBook
 
 # Enable or disable the site search
 # Supports true (default) or false
