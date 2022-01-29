@@ -25,4 +25,9 @@
   "spellright.notificationClass": "warning",
   "vscodeMarkdownNotes.noteCompletionConvention": "noExtension",
   "vscodeMarkdownNotes.slugifyMethod": "github-slugger",
+  "cSpell.words": [
+    "cheatsheet",
+    "dotnet",
+    "efcore"
+  ],
 }

@@ -25,6 +25,18 @@
 		],
 		"description": "Insert settings section with created and tags."
 	},
+	"Insert resources": {
+		"prefix": "res",
+		"body": [
+			"---",
+			"",
+			"## Resources",
+			"",
+			"* [$1]($2)",
+			""
+		],
+		"description": "Insert resources section."
+	},
 	"Insert todo": {
 		"prefix": "todo",
 		"body": [
