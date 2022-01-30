@@ -12,7 +12,8 @@ Credits:
 * [Free elephant api](https://elephant-api.herokuapp.com/)
 
 Running project:
-[https://github.com/EinApfelBaum/ElephantClient](https://github.com/EinApfelBaum/ElephantClient)
+[Sample](https://github.com/EinApfelBaum/devBook/tree/main/samples/Record.json)
+[https://github.com/EinApfelBaum/ElephantClient](https://github.com/EinApfelBaum/devBook/tree/main/samples/ElephantClient)
 
 Needed nuget package:
 
