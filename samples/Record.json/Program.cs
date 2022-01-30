@@ -2,7 +2,7 @@
 using System.Text.Json;
 using System.Text.Json.Serialization;
 
-namespace _2021080201
+namespace Record.json
 {
     public record Person(
         [property: JsonPropertyName("name_test")] string Name,

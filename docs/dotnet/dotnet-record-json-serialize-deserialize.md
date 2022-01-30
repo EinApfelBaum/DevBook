@@ -1,6 +1,6 @@
 ---
 created: 02.08.2021
-tags: dotnet record
+tags: dotnet record withSample
 parent: dotnet
 ---
 
@@ -24,3 +24,5 @@ parent: dotnet
     "age_test": 42
 }
 ```
+
+[Sample](https://github.com/EinApfelBaum/devBook/tree/main/samples/Record.json)
