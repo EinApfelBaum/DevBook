@@ -30,4 +30,9 @@
     "dotnet",
     "efcore"
   ],
+  "spellright.language": [],
+  "spellright.documentTypes": [
+    "latex",
+    "plaintext"
+  ],
 }
