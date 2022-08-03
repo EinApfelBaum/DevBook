@@ -4,7 +4,7 @@ tags: linux cli ssh
 parent: Linux
 ---
 
-# ssh - OpenSSH SSH client (remote login program)
+# ssh - OpenSSH SSH client
 
 ## Generate a public/private key
 
