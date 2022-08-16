@@ -1,6 +1,6 @@
 ---
 created: 22.10.2021
-tags: linux fish shell
+tags: linux fish shell server
 parent: Linux
 ---
 
